@@ -16,7 +16,7 @@ class DocumentationTests(unittest.TestCase):
         hacs = json.loads((ROOT / "hacs.json").read_text(encoding="utf-8"))
         manifest = json.loads((PACKAGE / "manifest.json").read_text(encoding="utf-8"))
 
-        self.assertEqual(hacs, {"name": "Blind Control"})
+        self.assertEqual(hacs, {"name": "SOLARIS — Blind Control"})
         self.assertEqual(hacs["name"], manifest["name"])
         self.assertRegex(manifest["version"], r"^\d+\.\d+\.\d+$")
 

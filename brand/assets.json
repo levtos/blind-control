@@ -1,0 +1,38 @@
+{
+  "brand": "SOLARIS",
+  "repository": "levtos/blind-control",
+  "domain": "blind_control",
+  "original_sha256": "44ef37e5fe3eff073f2ceabcd30660744753d73e939a626d67da804ee561880b",
+  "original_size": [
+    1254,
+    1254
+  ],
+  "original_mode": "RGB",
+  "icon_crop_xyxy": [
+    177,
+    0,
+    1077,
+    900
+  ],
+  "resampling": "Pillow LANCZOS",
+  "files": {
+    "brand/icons/icon-128.png": "ae036837ada0e2f3649d2b3341eafd3657b7529bad29d33d6fe018bbe810c510",
+    "brand/icons/icon-256.png": "a65571ad607df68c350148a7004e4c7731cb188b18b3541ebe64550e4a2d122b",
+    "brand/icons/icon-32.png": "199dde5bf9621657c9e85ffbcc597f546a37a63408dd6a996541980853c4f8b3",
+    "brand/icons/icon-512.png": "a810e4f2dcb411f940b9b7806d361ef3ba36086610209f4abec1b5b4421363e6",
+    "brand/icons/icon-64.png": "63cd6f89fbf04287c8bd3c26194c6b4bc0f9d4ea447bd99652e5185f5350f7e1",
+    "brand/logos/logo-1024.png": "f8c71c63174373777afab9d0cb98422c65dfd857eb9794127eb8fa7b31042d40",
+    "brand/logos/logo-128.png": "b235183abd571b47bfadddf8d595ac3aad5061479c572e790c530aae9be50237",
+    "brand/logos/logo-256.png": "2a5a5dcd98064eaed747f3057c42d74c22a8cf14e764d65708c598b63754c68b",
+    "brand/logos/logo-512.png": "286dc2df6da64810cdc836952535075481846fb440e32b37c29ccf8b79b59db7",
+    "brand/original/SOLARIS.png": "44ef37e5fe3eff073f2ceabcd30660744753d73e939a626d67da804ee561880b",
+    "custom_components/blind_control/brand/dark_icon.png": "a65571ad607df68c350148a7004e4c7731cb188b18b3541ebe64550e4a2d122b",
+    "custom_components/blind_control/brand/dark_icon@2x.png": "a810e4f2dcb411f940b9b7806d361ef3ba36086610209f4abec1b5b4421363e6",
+    "custom_components/blind_control/brand/dark_logo.png": "2a5a5dcd98064eaed747f3057c42d74c22a8cf14e764d65708c598b63754c68b",
+    "custom_components/blind_control/brand/dark_logo@2x.png": "286dc2df6da64810cdc836952535075481846fb440e32b37c29ccf8b79b59db7",
+    "custom_components/blind_control/brand/icon.png": "a65571ad607df68c350148a7004e4c7731cb188b18b3541ebe64550e4a2d122b",
+    "custom_components/blind_control/brand/icon@2x.png": "a810e4f2dcb411f940b9b7806d361ef3ba36086610209f4abec1b5b4421363e6",
+    "custom_components/blind_control/brand/logo.png": "2a5a5dcd98064eaed747f3057c42d74c22a8cf14e764d65708c598b63754c68b",
+    "custom_components/blind_control/brand/logo@2x.png": "286dc2df6da64810cdc836952535075481846fb440e32b37c29ccf8b79b59db7"
+  }
+}
