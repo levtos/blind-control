@@ -639,7 +639,7 @@ class BootstrapTests(unittest.TestCase):
         manifest = json.loads((PACKAGE / "manifest.json").read_text(encoding="utf-8"))
 
         self.assertEqual(manifest["domain"], "blind_control")
-        self.assertEqual(manifest["name"], "Blind Control")
+        self.assertEqual(manifest["name"], "SOLARIS — Blind Control")
         self.assertTrue(manifest["config_flow"])
         self.assertEqual(manifest["iot_class"], "cloud_polling")
         self.assertNotIn("platforms", manifest)

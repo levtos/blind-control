@@ -1,7 +1,7 @@
 {
   "domain": "blind_control",
-  "name": "Blind Control",
-  "version": "0.7.4",
+  "name": "SOLARIS — Blind Control",
+  "version": "0.7.5",
   "after_dependencies": ["benni_core_contracts"],
   "documentation": "https://github.com/Levtos/blind_control",
   "issue_tracker": "https://github.com/Levtos/blind_control/issues",

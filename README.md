@@ -1,3 +1,5 @@
+![SOLARIS](brand/logos/logo-256.png)
+
 # Blind Control
 
 ## v0.7.4 Privacy source
@@ -149,3 +151,8 @@ neue Werte und Versionsrollback stehen in MIGRATION.md.
 frischem Kontext erforderlich. Erst nach PASS installiert Benni v0.6.1 und
 sammelt neue Shadow-Evidence. Keine Installation oder HA-Live-Änderung durch
 diese technische Veröffentlichung.
+
+
+## Unicorn Station branding
+
+**SOLARIS** is the product brand. See [asset provenance and HA display conventions](brand/README.md). Technical identities and behavior remain unchanged.
